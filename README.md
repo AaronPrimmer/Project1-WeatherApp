@@ -1,1 +1,1 @@
-# Project1-WeatherApp
+# Project1-EventPlanner
